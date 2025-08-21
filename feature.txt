@@ -1,1 +1,1 @@
-"feature.txt is exist"
+"This is a new feature."
